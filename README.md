@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi thereen,
+"Merhaba, Ben Mehmet Ali Bilen! Yazılım alanında uzmanlaşmış bir Frondent Developer ve React geliştiricisiyim. İnovasyon ve teknolojiye olan tutkumla birlikte, kullanıcı deneyimini geliştirmek için çabalıyorum. Web uygulamaları ve kullanıcı arayüzleri oluşturmak, benim için heyecan verici bTeknolojinin gelişmelerini takip ederek, bir web sitesinin  kullanıcı ara yüzünün geliştirilmesi için gerekli olan teknolojileri öğrenmek için eğitim almaktayım.
 
 <!--
-**malibilen/malibilen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+**malibilen/malibilen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+- 🔭 I’m currently working on ..Şu anda web sitelerinin grafik kullanıcı arayüzlerinin tasarımı ve geliştirilmesi için gerekli olan teknolojileri öğreniyorum.✦
+HTML, CSS ve JavaScript gibi teknolojiler hakkında çalışmalar yapıyorum 
+- 🌱 I’m currently learning .
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
